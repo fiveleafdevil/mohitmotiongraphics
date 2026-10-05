@@ -2,9 +2,10 @@ import { motion } from 'framer-motion';
 import { User, Code, Palette, Zap } from 'lucide-react';
 
 const stats = [
-  { icon: <Code className="w-5 h-5 text-yellow-500" />, label: 'Development', value: '1.5+ Years' },
+  { icon: <Code className="w-5 h-5 text-yellow-500" />, label: 'Development', value: '2.5+ Years' },
   { icon: <Palette className="w-5 h-5 text-purple-500" />, label: 'Design', value: 'Awards' },
   { icon: <Zap className="w-5 h-5 text-blue-500" />, label: 'Projects', value: '50+ Done' },
+   { icon: <Zap className="w-5 h-5 text-blue-500" />, label: 'Clients', value: '30+ Clients' },
 ];
 
 export const About = () => {

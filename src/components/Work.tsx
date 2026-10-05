@@ -22,14 +22,12 @@ const categories: Category[] = [
     color: "bg-blue-500",
     size: "col-span-1",
     items: [
-      { src: "/work/2d/Sevabait animation.mp4", type: "video" },
-      { src: "/work/2d/Lubistar omega eye animation_D2.mp4", type: "video" },
-      { src: "/work/2d/Eye healing animation.mp4", type: "video" },
-      { src: "/work/2d/Patient Video_D4.mp4", type: "video" },
-      { src: "/work/2d/Monticope desolving video_D2.mp4", type: "video" },
-      { src: "/work/2d/Zitbolw face wash video.mp4", type: "video" },
-      { src: "/work/2d/Diwali Activity.mp4", type: "video" },
       { src: "/work/2d/1.mp4", type: "video" },
+      { src: "/work/2d/2.mp4", type: "video" },
+      { src: "/work/2d/3.mp4", type: "video" },
+      { src: "/work/2d/4.mp4", type: "video" },
+      { src: "/work/2d/5.mp4", type: "video" },
+      { src: "/work/2d/6.mp4", type: "video" },
     ],
   },
   {
@@ -38,16 +36,14 @@ const categories: Category[] = [
     color: "bg-purple-500",
     size: "col-span-1 md:col-span-2",
     items: [
-      { src: "/work/graphic/10.jpeg", type: "image" },
-      { src: "/work/graphic/3.jpg", type: "image" },
-      { src: "/work/graphic/5.jpg", type: "image" },
-      { src: "/work/graphic/11.jpeg", type: "image" },
-      { src: "/work/graphic/6.jpg", type: "image" },
-      { src: "/work/graphic/7.jpg", type: "image" },
-      { src: "/work/graphic/1.jpg", type: "image" },
+      { src: "/work/graphic/2.jpeg", type: "image" },
+      { src: "/work/graphic/3.jpeg", type: "image" },
+      { src: "/work/graphic/5.png", type: "image" },
+      { src: "/work/graphic/6.png", type: "image" },
+      { src: "/work/graphic/7.png", type: "image" },
+      { src: "/work/graphic/1.jpeg", type: "image" },
       { src: "/work/graphic/4.jpg", type: "image" },
-      { src: "/work/graphic/8.jpg", type: "image" },
-      { src: "/work/graphic/12.jpeg", type: "image" },
+      
     ],
   },
   {
@@ -58,16 +54,21 @@ const categories: Category[] = [
     items: [
       { src: "/work/3d/1.mp4", type: "video" },
       { src: "/work/3d/2.mp4", type: "video" },
+      { src: "/work/3d/3.mp4", type: "video" },
     ],
   },
   {
-    title: "Documentary Editing",
+    title: "Saas Editing",
     icon: <Video />,
     color: "bg-red-500",
     size: "col-span-1",
-    items: [{ src: "/work/documentary/1.mp4", type: "video" },
-        { src: "/work/documentary/2.mp4", type: "video" },
-        
+    items: [{ src: "/work/Saas/1.mp4", type: "video" },
+        { src: "/work/Saas/2.mp4", type: "video" },
+        { src: "/work/Saas/3.mp4", type: "video" },
+        { src: "/work/Saas/4.mp4", type: "video" },
+        { src: "/work/Saas/5.mp4", type: "video" },
+        { src: "/work/Saas/6.mp4", type: "video" },
+        { src: "/work/Saas/7.mp4", type: "video" },
       
 
     ],
@@ -84,6 +85,8 @@ const categories: Category[] = [
       { src: "/work/motion/3.mp4", type: "video" },
       { src: "/work/motion/4.mp4", type: "video" },
       { src: "/work/motion/5.mp4", type: "video" },
+      { src: "/work/motion/7.mp4", type: "video" },
+      { src: "/work/motion/8.mp4", type: "video" },
       
     ],
   },
@@ -100,7 +103,10 @@ const categories: Category[] = [
     color: "bg-indigo-500",
     size: "col-span-1 md:col-span-2",
     items: [
-      { src: "/work/uiux/emt video_1.mp4", type: "video" },
+      { src: "/work/uiux/3.mp4", type: "video" },
+      { src: "/work/uiux/5.mp4", type: "video" },
+      { src: "/work/uiux/4.mp4", type: "video" },
+      { src: "/work/uiux/6.mp4", type: "video" },
      
     ],
   },

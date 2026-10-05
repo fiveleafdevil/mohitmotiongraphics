@@ -12,7 +12,7 @@ const experiences = [
   {
     role: 'Graphic Designer',
     company: 'Sea And Coast',
-    period: '06/2023 - 11/2023',
+    period: '01/2023 - 12/2023',
     description: 'I gained valuable experience working with Sea And Coast as a Graphics Designer, where I honed my skills in creating impactful visuals, motion graphics, and engaging design content.',
     tags: ['Photoshop', 'Illustrator', 'Branding'],
   },
